@@ -10,7 +10,7 @@
 10,0,Monster Hunter Rise,魔物獵人崛起,990
 11,0,Monster Hunter Stories,魔物獵人物語,989
 12,0,Pikmin,皮克敏,988
-13,0,Pok?mon,寶可夢,987
+13,0,Pokemon,寶可夢,987
 14,0,Shovel Knight,鏟子騎士,986
 15,0,Skylanders SuperChargers,寶貝龍世界,985
 16,0,Splatoon,斯普拉遁,984
@@ -21,8 +21,8 @@
 21,0,The Legend of Zelda,薩爾達傳說,979
 22,0,Xenoblade Chronicles,異度神劍,978
 23,0,Yoshi's Woolly World,耀西的毛線世界,977
-24,87,Figures,公仔型,976
-25,87,Cards,卡片型,975
+24,1,Figures,公仔型,976
+25,1,Cards,卡片型,975
 26,25,Animal Crossing Cards - New Leaf Welcome amiibo,動物森友會走出戶外,974
 27,25,Animal Crossing Cards - Promos,動物森友會宣傳品,973
 28,25,Animal Crossing Cards - 1,動物森友會第1彈,972
@@ -35,78 +35,4 @@
 35,0,Power Pros,實況野球,965
 36,0,Super Mario Cereal,超級瑪利歐家樂氏,964
 37,0,Yu-Gi-Oh!,遊戲王,963
-38,6,Fire Emblem Fates,聖火降魔錄if,744
-39,21,The Legend of Zelda: Twilight Princess HD,薩爾達傳說 黃昏公主 HD,342
-40,21,The Legend of Zelda: Breath of the Wild,薩爾達傳說 曠野之息,343
-41,34,MARIO SPORTS SUPERSTARS,瑪利歐體壇超明星,249
-42,7,Team Kirby Clash Deluxe,大家一起上！ 卡比獵人隊Z,692
-43,6,FIRE EMBLEM Echoes: Shadows of Valentia,聖火降魔錄Echoes 另一位英雄王,745
-44,0,Mario Kart 8 Deluxe,瑪利歐賽車8 豪華版,901
-45,14,Shovel Knight: Treasure Trove,鏟子騎士：無主珍寶,518
-46,7,Kirby's Blowout Blast,星之卡比的吸入大作戰,693
-47,12,Hey! Pikmin,Hey! 皮克敏,539
-48,16,Splatoon 2,斯普拉遁 2,498
-49,0,Azure Striker GUNVOLT: STRIKER PACK,蒼藍雷霆GUNVOLT 強襲合輯,902
-50,9,Metroid: Samus Returns,銀河戰士 薩姆斯歸來,598
-51,13,Pokk?n Tournament DX,寶可拳DX,537
-52,6,Fire Emblem Warriors,聖火降魔錄無雙,746
-53,0,Conga Master Party!,康加大師派對！,903
-54,17,Mario & Luigi: Superstar Saga + Bowser’s Minions,瑪利歐＆路易吉 RPG1 DX,440
-55,17,Super Mario Odyssey,超級瑪利歐 奧德賽,441
-56,0,Girls Mode 4: Suta sutairisuto,淑女風範 4 星光設計師,904
-57,0,Resident Evil Revelations,惡靈古堡：啟示錄 1,906
-58,0,Resident Evil Revelations 2,惡靈古堡：啟示錄 2,905
-59,7,Kirby Battle Royale,星之卡比 戰鬥豪華版,694
-60,17,MARIO PARTY: THE TOP 100,瑪利歐派對 100 迷你遊戲大合輯,442
-61,17,Mario + Rabbids? Kingdom Battle,瑪利歐 ＋ 瘋狂兔子 王國之戰,443
-62,0,The Elder Scrolls V: Skyrim?,上古卷軸V：無界天際,907
-63,0,Bayonetta 2,蓓優妮塔 2,908
-64,7,Kirby Star Allies,星之卡比 新星同盟,695
-65,21,Hyrule Warriors: Definitive Edition,薩爾達無雙 海拉魯全明星豪華版,344
-66,13,Detective Pikachu,名偵探皮卡丘,538
-67,0,Little Nightmares? Complete Edition,小小夢魘 完全版,909
-68,8,Mega Man Legacy Collection 1,洛克人 傳奇合輯 1,648
-69,8,Mega Man Legacy Collection 2,洛克人 傳奇合輯 2,647
-70,0,Just Shapes & Beats,Just Shapes & Beats,910
-71,17,Captain Toad: Treasure Tracker,前進！奇諾比奧隊長,444
-72,17,WarioWare Gold,瓦利歐製造 豪華版,445
-73,8,Mega Man 11,洛克人 11 命運的齒輪,649
-74,17,Super Mario Party,超級瑪利歐派對,446
-75,4,Dark Souls?: Remastered,黑暗靈魂 Remastered,849
-76,17,Luigi's Mansion,路易吉洋樓,447
-77,20,Super Smash Bros. Ultimate,任天堂明星大亂鬥 特別版,399
-78,5,Diablo III: Eternal Collection,暗黑破壞神 3：永恆之戰版,799
-79,17,Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey,瑪利歐與路易吉 RPG 3 DX,448
-80,0,Build a Bridge!,建橋專家,911
-81,7,Kirby’s Extra Epic Yarn,毛線卡比 Plus,696
-82,23,Yoshi's Crafted World,耀西的手工世界,279
-83,35,Power Pros 2019,實況野球 2019,245
-84,6,Fire Emblem: Three Houses,聖火降魔錄 風花雪月,747
-85,7,Super Kirby Clash,超級卡比獵人隊,697
-86,21,The Legend of Zelda: Link's Awakening,薩爾達傳說 織夢島,345
-87,1,Animal Crossing: New Horizons,集合啦！動物森友會,899
-88,0,Megabyte Punch,Megabyte Punch,912
-89,35,Power Pros 2020,實況野球 2020,246
-90,21,Hyrule Warriors: Age of Calamity,薩爾達無雙 災厄啟示錄,346
-91,0,Cyber Shadow,異度闇影,913
-92,17,Super Mario 3D World + Bowser's Fury,超級瑪利歐 3Ｄ世界 ＋ 狂怒世界,449
-93,10,MONSTER HUNTER RISE,魔物獵人 崛起,578
-94,0,Miitopia,迷托邦,914
-95,11,Monster Hunter Stories 2: Wings of Ruin,魔物獵人物語 2：破滅之翼,558
-96,21,The Legend of Zelda: Skyward Sword HD,薩爾達傳說 禦天之劍 HD,347
-97,37,Yu-Gi-Oh! Rush Duel Saikyo Battle Royale,遊戲王 SEVENS Rush Duel 最強大亂鬥！！,244
-98,9,Metroid Dread,密特羅德 生存恐懼,599
-99,14,Shovel Knight Pocket Dungeon,鏟子騎士：袖珍地牢,519
-100,7,Kirby and the Forgotten Land,星之卡比 探索發現,698
-101,35,Power Pros 2022,實況野球 2022,247
-102,6,Fire Emblem Warriors: Three Hopes,聖火降魔錄無雙 風花雪月,748
-103,10,MONSTER HUNTER RISE: SUNBREAK,魔物獵人 崛起：破曉,579
-104,22,Xenoblade Chronicles 3,異度神劍 3,299
-105,16,Splatoon 3,斯普拉遁 3,499
-106,6,Fire Emblem Engage,聖火降魔錄 Engage,749
-107,7,Kirby's Return to Dream Land Deluxe,星之卡比 Wii 豪華版,699
-108,21,The Legend of Zelda: Tears of the Kingdom,薩爾達傳說 王國之淚,348
-109,11,Monster Hunter Stories 1,魔物獵人物語 1,559
-110,35,Power Pros 2024-2025,實況野球 2024-2025,248
-111,21,The Legend of Zelda: Echoes of Wisdom,薩爾達傳說 智慧的再現,349
-255,0,Others,未分類,0
+255,0,Other,未分類,900
