@@ -21,6 +21,15 @@
 10,3509000004101802,Palico,隨從艾路,Palico
 10,350a0100042c1802,“Canyne Malzeno” Palamute,隨從加爾克【爵銀龍×犬】,“Canyne Malzeno” Palamute
 10,35090100042b1802,“Felyne Malzeno” Palico,隨從艾路【爵銀龍×貓】,“Felyne Malzeno” Palico
+11,3500020002e20f02,One-Eyed Rathalos and Rider - Girl,獨眼雄火龍和女騎士,One-Eyed Rathalos and Rider - Girl
+11,3500010002e10f02,One-Eyed Rathalos and Rider - Boy,獨眼雄火龍和男騎士,One-Eyed Rathalos and Rider - Boy
+11,3501000002e30f02,Navirou,納比路,Navirou
+11,3502010002e40f02,Rathian and Cheval,雌火龍和修瓦爾,Rathian and Cheval
+11,3503010002e50f02,Barioth and Ayuria,冰牙龍和亞尤利婭,Barioth and Ayuria
+11,3504010002e60f02,Qurupeco and Dan,彩鳥和丹,Qurupeco and Dan
+11,35060000040d0f02,Ena,艾娜,Ena
+11,35050000040c0f02,Razewing Ratha,破滅火龍,Razewing Ratha
+11,35070000040e0f02,Tsukino,月路,Tsukino
 12,06420000035f1102,Pikmin,皮克敏,Pikmin
 13,1d01000003750d02,Detective Pikachu,偵探皮卡丘,Detective Pikachu
 13,1d000001025c0d02,Shadow Mewtwo,暗影超夢,Shadow Mewtwo
@@ -154,7 +163,7 @@
 20,1919000000090002,Pikachu,皮卡丘,Pikachu
 20,00240000038d0002,Piranha Plant,吞食花,Piranha Plant
 20,0740000000100002,Pit,彼特,Pit
-20,1d40000003870002,Pok?mon Trainer,寶可夢訓練家,Pok?mon Trainer
+20,1d40000003870002,Pokemon Trainer,寶可夢訓練家,Pokemon Trainer
 20,22410000041e0002,Pyra,焰,Pyra
 20,07810000002e0002,R.O.B. (Famicom),機器人,R.O.B. (Famicom)
 20,0781000000330002,R.O.B. (NES),機器人,R.O.B. (NES)
@@ -309,7 +318,7 @@
 28,02870001005a0502,023Cheri,023櫻桃,023Cheri
 28,05150001005b0502,024Kyle,024李可,024Kyle
 28,03710001005c0502,025Al,025阿保,025Al
-28,04ba0001005d0502,026Ren?e,026柴姐,026Ren?e
+28,04ba0001005d0502,026Renee,026柴姐,026Renee
 28,02db0001005e0502,027Lopez,027湯姆,027Lopez
 28,03450001005f0502,028Jambette,028翡翠,028Jambette
 28,047a000100600502,029Rasher,029古烈,029Rasher
@@ -734,7 +743,7 @@
 32,0a20000103d70502,448Faith,448游琪,448Faith
 33,0374010103190502,S01Rilla,S01莉拉【Hello Kitty】,S01Rilla
 33,028f0101031a0502,S02Marty,S02瑪丁【布丁狗】,S02Marty
-33,04d30101031b0502,S03?toile,S03彩星【雙星仙子】,S03?toile
+33,04d30101031b0502,S03Etoile,S03彩星【雙星仙子】,S03Etoile
 33,032e0101031c0502,S04Chai,S04啡卡【大耳狗喜拿】,S04Chai
 33,02e00101031d0502,S05Chelsea,S05雀兒喜【美樂蒂】,S05Chelsea
 33,04a80101031e0502,S06Toby,S06咚比【大眼蛙】,S06Toby
@@ -831,7 +840,7 @@
 35,3802000103951702,Daijobu,沒問題博士,Daijobu
 35,3805000103981702,Ganda,剛達,Ganda
 35,3803000103961702,Hayakawa,早川葵,Hayakawa
-35,3801000103941702,Ikari,?狩守,Ikari
+35,3801000103941702,Ikari,豬狩守,Ikari
 35,3800000103931702,Pawapuro,野球君,Pawapuro
 35,3804000103971702,Yabe,矢部明雄,Yabe
 36,3740000103741402,Super Mario Cereal,瑪利歐【家樂氏穀片】,Super Mario Cereal

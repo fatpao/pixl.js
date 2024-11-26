@@ -11,7 +11,7 @@ const db_game_t game_list[] = {
 {8, 0, "Mega Man", "洛克人", 992, 1}, 
 {9, 0, "Metroid", "密特羅德", 991, 4}, 
 {10, 0, "Monster Hunter Rise", "魔物獵人崛起", 990, 6}, 
-{11, 0, "Monster Hunter Stories", "魔物獵人物語", 989, 0}, 
+{11, 0, "Monster Hunter Stories", "魔物獵人物語", 989, 9}, 
 {12, 0, "Pikmin", "皮克敏", 988, 1}, 
 {13, 0, "Pokemon", "寶可夢", 987, 2}, 
 {14, 0, "Shovel Knight", "鏟子騎士", 986, 5}, 
@@ -38,6 +38,6 @@ const db_game_t game_list[] = {
 {35, 0, "Power Pros", "實況野球", 965, 6}, 
 {36, 0, "Super Mario Cereal", "超級瑪利歐家樂氏", 964, 1}, 
 {37, 0, "Yu-Gi-Oh!", "遊戲王", 963, 7}, 
-{255, 0, "Other", "未分類", 900, 9}, 
+{255, 0, "Other", "未分類", 900, 0}, 
 {0, 0, 0, 0, 0}
 };
