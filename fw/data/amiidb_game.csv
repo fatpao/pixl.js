@@ -64,11 +64,11 @@
 101,2,The Legend of Zelda: Breath of the Wild,薩爾達傳說 曠野之息,1
 102,2,Mario Kart 8 Deluxe,瑪利歐賽車8 豪華版,2
 103,2,Shovel Knight: Treasure Trove,鏟子騎士：無主珍寶,3
-301,103,Shovel Knight: Shovel of Hope,鏟子騎士：希望之鏟,4
-302,103,Shovel Knight: Plague of Shadows,鏟子騎士：暗影瘟疫,5
-303,103,Shovel Knight: Specter of Torment,鏟子騎士：苦痛幽魂,6
-304,103,Shovel Knight: King of Cards,鏟子騎士：卡牌之王,7
-305,103,Shovel Knight: Showdown,鏟子騎士：巔峰決戰,8
+201,103,Shovel Knight: Shovel of Hope,鏟子騎士：希望之鏟,4
+202,103,Shovel Knight: Plague of Shadows,鏟子騎士：暗影瘟疫,5
+203,103,Shovel Knight: Specter of Torment,鏟子騎士：苦痛幽魂,6
+204,103,Shovel Knight: King of Cards,鏟子騎士：卡牌之王,7
+205,103,Shovel Knight: Showdown,鏟子騎士：巔峰決戰,8
 104,2,Splatoon 2,斯普拉遁 2,9
 105,2,Azure Striker GUNVOLT: STRIKER PACK,蒼藍雷霆GUNVOLT 強襲合輯,10
 106,2,Pokken Tournament DX,寶可拳DX,11
@@ -91,10 +91,10 @@
 123,2,Super Mario Party,超級瑪利歐派對,28
 124,2,Dark Souls: Remastered,黑暗靈魂 Remastered,29
 125,2,Super Smash Bros. Ultimate,任天堂明星大亂鬥 特別版,30
-311,125,Super Smash Bros.001~025,任天堂明星大亂鬥001~025,31
-312,125,Super Smash Bros.026~050,任天堂明星大亂鬥026~050,32
-313,125,Super Smash Bros.051~075,任天堂明星大亂鬥051~075,33
-314,125,Super Smash Bros.076~100,任天堂明星大亂鬥076~100,34
+206,125,Super Smash Bros.001~025,任天堂明星大亂鬥001~025,31
+207,125,Super Smash Bros.026~050,任天堂明星大亂鬥026~050,32
+208,125,Super Smash Bros.051~075,任天堂明星大亂鬥051~075,33
+209,125,Super Smash Bros.076~100,任天堂明星大亂鬥076~100,34
 126,2,Diablo III: Eternal Collection,暗黑破壞神 3：永恆之戰版,35
 127,2,Build a Bridge!,建橋專家,36
 128,2,Yoshi's Crafted World,耀西的手工世界,37
@@ -103,55 +103,55 @@
 131,2,Super Kirby Clash,超級卡比獵人隊,40
 132,2,The Legend of Zelda: Link's Awakening,薩爾達傳說 織夢島,41
 133,2,Animal Crossing: New Horizons,集合啦！動物森友會,42
-321,133,Figures,公仔型,43
-322,133,Cards,卡片型,44
-323,322,Animal Crossing x Sanrio Cards,動物森友會三麗鷗,45
-324,322,Animal Crossing Cards - Promos,動物森友會宣傳品,46
-325,322,Animal Crossing Cards - New Leaf Welcome amiibo,動物森友會走出戶外,47
-326,325,Animal Crossing Cards - New Leaf Welcome amiibo_001~025,動物森友會走出戶外001~025,48
-327,325,Animal Crossing Cards - New Leaf Welcome amiibo_026~050,動物森友會走出戶外026~050,49
-328,322,Animal Crossing Cards - 1,動物森友會第1彈,50
-329,328,Animal Crossing Cards - 1_001~025,動物森友會第1彈001~025,51
-330,328,Animal Crossing Cards - 1_026~050,動物森友會第1彈026~050,52
-331,328,Animal Crossing Cards - 1_051~075,動物森友會第1彈051~075,53
-332,328,Animal Crossing Cards - 1_076~100,動物森友會第1彈076~100,54
-333,322,Animal Crossing Cards - 2,動物森友會第2彈,55
-334,333,Animal Crossing Cards - 2_101~125,動物森友會第2彈101~125,56
-335,333,Animal Crossing Cards - 2_126~150,動物森友會第2彈126~150,57
-336,333,Animal Crossing Cards - 2_151~175,動物森友會第2彈151~175,58
-337,333,Animal Crossing Cards - 2_176~200,動物森友會第2彈176~200,59
-338,322,Animal Crossing Cards - 3,動物森友會第3彈,60
-339,338,Animal Crossing Cards - 3_201~225,動物森友會第3彈201~225,61
-340,338,Animal Crossing Cards - 3_226~250,動物森友會第3彈226~250,62
-341,338,Animal Crossing Cards - 3_251~275,動物森友會第3彈251~275,63
-342,338,Animal Crossing Cards - 3_276~300,動物森友會第3彈276~300,64
-343,322,Animal Crossing Cards - 4,動物森友會第4彈,65
-344,343,Animal Crossing Cards - 4_301~325,動物森友會第4彈301~325,66
-345,343,Animal Crossing Cards - 4_326~350,動物森友會第4彈326~350,67
-346,343,Animal Crossing Cards - 4_351~375,動物森友會第4彈351~375,68
-347,343,Animal Crossing Cards - 4_376~400,動物森友會第4彈376~400,69
-348,322,Animal Crossing Cards - 5,動物森友會第5彈,70
-349,348,Animal Crossing Cards - 5_401~424,動物森友會第5彈401~424,71
-350,348,Animal Crossing Cards - 5_425~448,動物森友會第5彈425~448,72
-134,0,Megabyte Punch,Megabyte Punch,73
-135,0,Hyrule Warriors: Age of Calamity,薩爾達無雙 災厄啟示錄,74
-136,0,Cyber Shadow,異度闇影,75
-137,0,Super Mario 3D World + Bowser's Fury,超級瑪利歐 3Ｄ世界 ＋ 狂怒世界,76
-138,0,Monster Hunter Rise,魔物獵人 崛起,77
-139,0,Miitopia,迷托邦,78
-140,0,Monster Hunter Stories 2: Wings of Ruin,魔物獵人物語 2：破滅之翼,79
-141,0,The Legend of Zelda: Skyward Sword HD,薩爾達傳說 禦天之劍 HD,80
-142,0,Yu-Gi-Oh! Rush Duel Saikyo Battle Royale,遊戲王 SEVENS Rush Duel 最強大亂鬥！！,81
-143,0,Metroid Dread,密特羅德 生存恐懼,82
-144,0,Shovel Knight Pocket Dungeon,鏟子騎士：袖珍地牢,83
-145,0,Kirby and the Forgotten Land,星之卡比 探索發現,84
-146,0,Fire Emblem Warriors: Three Hopes,聖火降魔錄無雙 風花雪月,85
-147,0,Xenoblade Chronicles 3,異度神劍 3,86
-148,0,Splatoon 3,斯普拉遁 3,87
-149,0,Shovel Knight Dig,鏟子騎士 挖掘,88
-150,0,Fire Emblem Engage,聖火降魔錄 Engage,89
-151,0,Kirby's Return to Dream Land Deluxe,星之卡比 Wii 豪華版,90
-152,0,The Legend of Zelda: Tears of the Kingdom,薩爾達傳說 王國之淚,91
-153,0,Monster Hunter Stories 1,魔物獵人物語 1,92
-154,0,The Legend of Zelda: Echoes of Wisdom,薩爾達傳說 智慧的再現,93
-255,0,Others,未分類,0
+210,133,Figures,公仔型,43
+211,133,Cards,卡片型,44
+212,211,Animal Crossing x Sanrio Cards,動物森友會三麗鷗,45
+213,211,Animal Crossing Cards - Promos,動物森友會宣傳品,46
+214,211,Animal Crossing Cards - New Leaf Welcome amiibo,動物森友會走出戶外,47
+215,214,Animal Crossing Cards - New Leaf Welcome amiibo_001~025,動物森友會走出戶外001~025,48
+216,214,Animal Crossing Cards - New Leaf Welcome amiibo_026~050,動物森友會走出戶外026~050,49
+217,211,Animal Crossing Cards - 1,動物森友會第1彈,50
+218,217,Animal Crossing Cards - 1_001~025,動物森友會第1彈001~025,51
+219,217,Animal Crossing Cards - 1_026~050,動物森友會第1彈026~050,52
+220,217,Animal Crossing Cards - 1_051~075,動物森友會第1彈051~075,53
+221,217,Animal Crossing Cards - 1_076~100,動物森友會第1彈076~100,54
+222,211,Animal Crossing Cards - 2,動物森友會第2彈,55
+223,222,Animal Crossing Cards - 2_101~125,動物森友會第2彈101~125,56
+224,222,Animal Crossing Cards - 2_126~150,動物森友會第2彈126~150,57
+225,222,Animal Crossing Cards - 2_151~175,動物森友會第2彈151~175,58
+226,222,Animal Crossing Cards - 2_176~200,動物森友會第2彈176~200,59
+227,211,Animal Crossing Cards - 3,動物森友會第3彈,60
+228,227,Animal Crossing Cards - 3_201~225,動物森友會第3彈201~225,61
+229,227,Animal Crossing Cards - 3_226~250,動物森友會第3彈226~250,62
+230,227,Animal Crossing Cards - 3_251~275,動物森友會第3彈251~275,63
+231,227,Animal Crossing Cards - 3_276~300,動物森友會第3彈276~300,64
+232,211,Animal Crossing Cards - 4,動物森友會第4彈,65
+233,232,Animal Crossing Cards - 4_301~325,動物森友會第4彈301~325,66
+234,232,Animal Crossing Cards - 4_326~350,動物森友會第4彈326~350,67
+235,232,Animal Crossing Cards - 4_351~375,動物森友會第4彈351~375,68
+236,232,Animal Crossing Cards - 4_376~400,動物森友會第4彈376~400,69
+237,211,Animal Crossing Cards - 5,動物森友會第5彈,70
+238,237,Animal Crossing Cards - 5_401~424,動物森友會第5彈401~424,71
+239,237,Animal Crossing Cards - 5_425~448,動物森友會第5彈425~448,72
+134,2,Megabyte Punch,Megabyte Punch,73
+135,2,Hyrule Warriors: Age of Calamity,薩爾達無雙 災厄啟示錄,74
+136,2,Cyber Shadow,異度闇影,75
+137,2,Super Mario 3D World + Bowser's Fury,超級瑪利歐 3Ｄ世界 ＋ 狂怒世界,76
+138,2,Monster Hunter Rise,魔物獵人 崛起,77
+139,2,Miitopia,迷托邦,78
+140,2,Monster Hunter Stories 2: Wings of Ruin,魔物獵人物語 2：破滅之翼,79
+141,2,The Legend of Zelda: Skyward Sword HD,薩爾達傳說 禦天之劍 HD,80
+142,2,Yu-Gi-Oh! Rush Duel Saikyo Battle Royale,遊戲王 SEVENS Rush Duel 最強大亂鬥！！,81
+143,2,Metroid Dread,密特羅德 生存恐懼,82
+144,2,Shovel Knight Pocket Dungeon,鏟子騎士：袖珍地牢,83
+145,2,Kirby and the Forgotten Land,星之卡比 探索發現,84
+146,2,Fire Emblem Warriors: Three Hopes,聖火降魔錄無雙 風花雪月,85
+147,2,Xenoblade Chronicles 3,異度神劍 3,86
+148,2,Splatoon 3,斯普拉遁 3,87
+149,2,Shovel Knight Dig,鏟子騎士 挖掘,88
+150,2,Fire Emblem Engage,聖火降魔錄 Engage,89
+151,2,Kirby's Return to Dream Land Deluxe,星之卡比 Wii 豪華版,90
+152,2,The Legend of Zelda: Tears of the Kingdom,薩爾達傳說 王國之淚,91
+153,2,Monster Hunter Stories 1,魔物獵人物語 1,92
+154,2,The Legend of Zelda: Echoes of Wisdom,薩爾達傳說 智慧的再現,93
+255,0,Others,未分類,997
