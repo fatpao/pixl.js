@@ -95,6 +95,6 @@ const db_game_t game_list[] = {
 {152, 2, "The Legend of Zelda: Tears of the Kingdom", "薩爾達傳說 王國之淚", 91, 30}, 
 {153, 2, "Monster Hunter Stories 1", "魔物獵人物語 1", 92, 9}, 
 {154, 2, "The Legend of Zelda: Echoes of Wisdom", "薩爾達傳說 智慧的再現", 93, 10}, 
-{255, 0, "Others", "未分類", 0, 0}, 
+{255, 0, "Others", "未分類", 0, 104}, 
 {0, 0, 0, 0, 0}
 };
