@@ -1,5 +1,4 @@
 1,0,All amiibo by Series,依amiibo系列排序,255
-2,0,All amiibo by Games,依NS遊戲發行排序,254
 11,1,Animal Crossing,動物森友會,253
 12,11,Figures,公仔型,252
 13,11,Cards,卡片型,251
@@ -62,6 +61,6 @@
 70,1,Super Mario Cereal,超級瑪利歐家樂氏,194
 71,1,Yu-Gi-Oh!,遊戲王,193
 72,1,Street Fighter,快打旋風,192
-73,11,Figures,公仔型,191
-74,11,Cards,卡片型,190
+73,72,Figures,公仔型,191
+74,72,Cards,卡片型,190
 255,0,Others,未分類,0

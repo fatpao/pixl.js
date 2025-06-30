@@ -2,8 +2,7 @@
 #include "db_header.h"
 const db_game_t game_list[] = {
 {1, 0, "All amiibo by Series", "依amiibo系列排序", 255, 884}, 
-{2, 0, "All amiibo by Games", "依NS遊戲發行排序", 254, 0}, 
-{11, 1, "Animal Crossing", "動物森友會", 253, 550}, 
+{11, 1, "Animal Crossing", "動物森友會", 253, 525}, 
 {12, 11, "Figures", "公仔型", 252, 16}, 
 {13, 11, "Cards", "卡片型", 251, 509}, 
 {14, 13, "Animal Crossing Cards - New Leaf Welcome amiibo", "動物森友會走出戶外", 250, 50}, 
@@ -64,9 +63,9 @@ const db_game_t game_list[] = {
 {69, 1, "Power Pros", "實況野球", 195, 6}, 
 {70, 1, "Super Mario Cereal", "超級瑪利歐家樂氏", 194, 1}, 
 {71, 1, "Yu-Gi-Oh!", "遊戲王", 193, 7}, 
-{72, 1, "Street Fighter", "快打旋風", 192, 0}, 
-{73, 11, "Figures", "公仔型", 191, 3}, 
-{74, 11, "Cards", "卡片型", 190, 22}, 
+{72, 1, "Street Fighter", "快打旋風", 192, 25}, 
+{73, 72, "Figures", "公仔型", 191, 3}, 
+{74, 72, "Cards", "卡片型", 190, 22}, 
 {255, 0, "Others", "未分類", 0, 0}, 
 {0, 0, 0, 0, 0}
 };
