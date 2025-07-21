@@ -885,5 +885,6 @@ const db_amiibo_t amiibo_list[] = {
 {0x010a0000, 0x04a40902, "LOZ-024 Sidon - Tears of the Kingdom", "希多【王国之泪】"}, 
 {0x010c0000, 0x04a60902, "LOZ-025 Yunobo - Tears of the Kingdom", "阿沅【王国之泪】"}, 
 {0x010b0000, 0x04a50902, "LOZ-026 Tulin - Tears of the Kingdom", "丘栗【王国之泪】"}, 
+{0x00080100, 0x042f1a02, "001 Donkey Kong & Pauline", "咚奇刚和宝琳"}, 
 {0, 0, 0, 0}
 };
